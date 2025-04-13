@@ -1,8 +1,8 @@
-
+#  |Y> Quantum 2025 - Team Poytrit Panacea
 
 ## 1. Introduction
 
-This project implements a *purely quantum hash function* using Qiskit, designed to meet the requirements of the YQuantum 2025 "Super Hash Function Challenge." The goal is to create a quantum-based hash function that is:
+This project implements a *purely quantum hash function* using Qiskit, designed to meet the requirements of the YQuantum 2025 "Super Hash Function Challenge." A quantum hash function was implemented using Qiskit to explore the potential of quantum computing in cryptographic applications. The design leverages quantum superposition and entanglement to create a hash function with strong cryptographic properties. This document provides a comprehensive analysis of the methodology, implementation, and results. The goal is to create a quantum-based hash function that is:
 
 * **Deterministic** (same input → same output)
 * **Entropy-preserving** (maximizes randomness in output)
@@ -89,6 +89,8 @@ qc.measure_all()
 | Collision Resistance  | ✅ Low output similarity (cosine < 0.05) |
 | ≤20 Qubits            | ✅ Tested up to 20 qubits           |
 | Purely Quantum        | ✅ No classical hashing used         |
+
+## 5. Refer to the 
 
 ## 6. Results
 
