@@ -90,7 +90,8 @@ qc.measure_all()
 | ≤20 Qubits            | ✅ Tested up to 20 qubits           |
 | Purely Quantum        | ✅ No classical hashing used         |
 
-## 5. Refer to the 
+## 5. Refer to the ipynb file
+* [Submission file](https://github.com/Qyngshuk08/YQuantum-2024/blob/main/YQuantum_2025_Challenge_submission.ipynb)
 
 ## 6. Results
 
